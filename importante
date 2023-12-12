@@ -1,0 +1,9 @@
+npm init -y
+
+npx nodemon server.js
+
+"start": "nodemon server.js" (npm start)
+
+npm install
+
+npm run dev
